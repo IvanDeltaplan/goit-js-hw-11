@@ -187,6 +187,7 @@ img {
 /* бокс підписів */
 .info {
   position: absolute;
+  bottom: 0px;
   display: flex;
   text-align: center;
 
@@ -196,8 +197,8 @@ img {
 
 /* підписи */
 .info-item {
-  color: rgb(0, 119, 255);
-  background-color: rgba(168, 168, 168, 0.3);
+  color: rgb(12, 12, 12);
+  background-color: white;
 }
 
 /* спам */

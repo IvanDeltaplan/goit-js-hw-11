@@ -198,7 +198,7 @@ a {
 
 /* підписи */
 .info-item {
-  color: yellow;
+  color: rgb(0, 119, 255);
   background-color: rgba(168, 168, 168, 0.3);
 }
 

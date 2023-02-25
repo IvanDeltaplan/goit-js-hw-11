@@ -86,8 +86,7 @@ body {
   background-image: linear-gradient(to right, #2196f3, rgb(0, 145, 255));
 }
 
-input {
-}
+
 
 /* кнопка інпута */
 .btn-form {
@@ -183,8 +182,7 @@ img {
   /* height: 300px; */
 }
 
-a {
-}
+
 
 /* бокс підписів */
 .info {
